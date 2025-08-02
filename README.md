@@ -1,4 +1,4 @@
-# Business Insights 360
+# Restaurant Trends Analyzer
 
 ## Project Overview
 
