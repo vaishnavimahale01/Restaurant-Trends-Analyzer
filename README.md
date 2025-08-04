@@ -40,7 +40,7 @@ Jupyter Notebook: Interactive environment for conducting and presenting the anal
 
 🚀 Getting Started Clone the Repository:
 
-bash Copy code git clone https://github.com/Vaishnavi Mahale-13/Nagpur-Restaurants-Analysis.git
+bash Copy code git clone https://github.com/Vaishnavi-Mahale-13/Nagpur-Restaurants-Analysis.git
 
 Navigate to the Project Directory:
 bash Copy code cd Patna-Restaurants-Analysis
