@@ -38,16 +38,6 @@ Matplotlib & Seaborn: Data visualization libraries for creating insightful graph
 
 Jupyter Notebook: Interactive environment for conducting and presenting the analysis. GitHub +7 GitHub +7 GitHub +7
 
-🚀 Getting Started Clone the Repository:
-
-bash Copy code git clone https://github.com/Vaishnavi-Mahale-13/Nagpur-Restaurants-Analysis.git
-
-Navigate to the Project Directory:
-bash Copy code cd Patna-Restaurants-Analysis
-
-Open the Jupyter Notebook:
-bash Copy code jupyter notebook Restaurant.ipynb
-
 Explore the Analysis:
 Run the cells sequentially to reproduce the analysis and visualizations.
 
