@@ -1,6 +1,6 @@
 🍽️ Restaurant Trends Analyzer
 
-Tech Stack: Python, NumPy, Pandas, PowerBI
+Tech Stack: Python, NumPy, Pandas
 
 This project analyzes restaurant data (Zomato dataset) to uncover insights into customer preferences, restaurant ratings, costs, and cuisines. It leverages Exploratory Data Analysis (EDA), data cleaning, and interactive dashboards to present meaningful trends for decision-making in the restaurant industry.
 
